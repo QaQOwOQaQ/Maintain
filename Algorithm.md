@@ -1,16 +1,52 @@
-# 复习
-
-## 1. [AcWing 基础课](https://www.acwing.com/activity/content/11/)
+#[AcWing 基础课](https://www.acwing.com/activity/content/11/)
 
 [思维](https://www.acwing.com/activity/content/problem/content/1008/)
 
 [kmp](https://www.acwing.com/activity/content/problem/content/869/)
 
-## 2. [剑指Offer](https://www.acwing.com/activity/content/introduction/5/)
+# [剑指Offer](https://www.acwing.com/activity/content/introduction/5/)
 
+[]()
 
+[]()
 
-## 3. [LeetCode Hot 100](https://leetcode.cn/studyplan/top-100-liked/)
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+# [LeetCode Hot 100](https://leetcode.cn/studyplan/top-100-liked/)
 
 [4：不会](https://leetcode.cn/problems/median-of-two-sorted-arrays/description/?envType=study-plan-v2&envId=top-100-liked)
 
@@ -72,13 +108,11 @@
 
 [560：不会](https://leetcode.cn/problems/subarray-sum-equals-k/submissions/?envType=study-plan-v2&envId=top-100-liked)
 
-## 4. [代码随想录](https://programmercarl.com/)
+# [代码随想录](https://programmercarl.com/)
 
 [209](https://leetcode.cn/problems/minimum-size-subarray-sum/submissions/573130681/)
 
 [977](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
-
-[904](https://leetcode.cn/problems/fruit-into-baskets/description/)
 
 [1995](https://leetcode.cn/problems/count-special-quadruplets/solutions/1181794/gong-shui-san-xie-yi-ti-si-jie-mei-ju-ha-gmhv/)
 
@@ -98,8 +132,6 @@
 
 [450](https://leetcode.cn/problems/delete-node-in-a-bst/submissions/576600119/)
 
-[222:logn做法](https://leetcode.cn/problems/count-complete-tree-nodes/description/)
-
 [617:递归写法（单函数）](https://leetcode.cn/problems/merge-two-binary-trees/description/)
 
 [98](https://leetcode.cn/problems/validate-binary-search-tree/)
@@ -114,6 +146,66 @@
 
 [84](https://leetcode.cn/problems/largest-rectangle-in-histogram/)
 
+[222:非O(n)写法](https://leetcode.cn/problems/count-complete-tree-nodes/description/)
+
+[572](https://leetcode.cn/problems/subtree-of-another-tree/submissions/)
+
+[135](https://leetcode.cn/problems/candy/)
+
+[134](https://leetcode.cn/problems/gas-station/)
+
+[406](https://leetcode.cn/problems/queue-reconstruction-by-height/description/)
+
+[968](https://leetcode.cn/problems/binary-tree-cameras/)
+
+[763](https://leetcode.cn/problems/partition-labels/submissions/)
+
+[904](https://leetcode.cn/problems/fruit-into-baskets/description/)
+
+[738:log写法](https://leetcode.cn/problems/monotone-increasing-digits/solutions/)
+
+[376](https://leetcode.cn/problems/wiggle-subsequence/description/)
+
+[343:O(1)](https://leetcode.cn/problems/integer-break/submissions/)
+
+[1049](https://leetcode.cn/problems/last-stone-weight-ii/)
+
+[494](https://leetcode.cn/problems/target-sum/description/)
+
+[115](https://leetcode.cn/problems/distinct-subsequences/description/)
+
+[718](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/)
+
+[1155](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/description/)
+
+[115](https://leetcode.cn/problems/distinct-subsequences/)
+
+[213](https://leetcode.cn/problems/house-robber-ii/)
+
+[AcWing.1057](https://www.acwing.com/problem/content/description/1059/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+# [程序员面试金典](https://leetcode.cn/studyplan/cracking-the-coding-interview/)
+
 []()
 
 []()
@@ -136,17 +228,239 @@
 
 []()
 
-## 5. [程序员面试金典](https://leetcode.cn/studyplan/cracking-the-coding-interview/)
+[]()
 
-# 进阶
+[]()
 
-## 1. [AcWing 提高课](https://www.acwing.com/activity/content/16/)
+[]()
 
-## 2. [灵茶山艾府](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+# [AcWing 提高课](https://www.acwing.com/activity/content/16/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+# [灵茶山艾府](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 # LeetCode每日一题
 
 [3259](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/?envType=daily-question&envId=2024-11-01)
+
+[9:log时间+不开LL](https://leetcode.cn/problems/palindrome-number/submissions/)
+
+[1547](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/?envType=daily-question&envId=2024-11-11)
+
+[312](https://leetcode.cn/problems/burst-balloons/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+# Luogu
+
+[2458](https://www.luogu.com.cn/problem/P2458)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+# 牛客网
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+# 难题偏题怪题
+
+[LeetCode3235：数学，不会就算了](https://leetcode.cn/problems/check-if-the-rectangle-corner-is-reachable/solutions/2860214/deng-jie-zhuan-huan-bing-cha-ji-pythonja-yf9y/?envType=daily-question&envId=2024-11-08)
 
 # 经典题型
 
@@ -196,6 +510,12 @@
 
 [类似题](https://www.acwing.com/solution/content/108435/)
 
+## 6. 卡特兰数
+
+[不同的二叉搜索树的个数](https://leetcode.cn/problems/unique-binary-search-trees/solutions/)
+
+[]()
+
 # 经验之谈
 
 ## 1. 剪枝or动态规划
@@ -215,6 +535,20 @@
 * 切割问题：一个字符串按一定规则有几种切割方式
 * 子集问题：一个N个数的集合里有多少符合条件的子集
 * 棋盘问题：N皇后，数独
+
+## 4. 贪心法证明
+
+* 反证
+* 数学归纳
+
+## 5. DP算法流程
+
+1. DP数组的含义
+2. 状态转移
+3. 初始化
+4. 遍历顺序
+
+通过DP数组的含义至少能确保不漏解，从而保证一定能求出解。
 
 # BUG
 
@@ -254,3 +588,8 @@ Line 6: Char 28: error: variable 'getMaxDepth' declared with deduced type 'auto'
 
 ```
 
+## 2. lambda闭包开销导致递归时TLE
+
+[problem](https://leetcode.cn/problems/target-sum/submissions/578519493/)
+
+这可能是因为 lambda 表达式的闭包特性，在递归中会导致额外的开销和更复杂的栈管理。此外，如果 lambda 表达式捕获了类的成员变量 res，在递归层次过深时可能会导致栈溢出。
